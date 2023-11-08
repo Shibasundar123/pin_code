@@ -1,0 +1,13 @@
+
+
+
+.head{
+    display: flex;
+    gap: 2rem;
+}
+.btn{
+    padding: 1rem 2rem;
+    background-color: gray;
+    color: white;
+    border: 1px solid brown;
+}
